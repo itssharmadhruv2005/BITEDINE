@@ -1,0 +1,316 @@
+
+[
+  {
+    "id": "1",
+    "name": "Margherita Pizza",
+    "description": "Classic cheese & tomato",
+    "price": 100,
+    "category": "Pizzas",
+    "image": "/food-1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Veg Burger",
+    "description": "Veg patty with fresh salad",
+    "price": 80,
+    "category": "Burgers",
+    "image": "/food-2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Pasta Alfredo",
+    "description": "Creamy white sauce pasta",
+    "price": 140,
+    "category": "Snacks",
+    "image": "/food-3.jpg"
+  },
+  {
+    "id": "4",
+    "name": "French Fries",
+    "description": "Crispy golden fries",
+    "price": 90,
+    "category": "Snacks",
+    "image": "/food-5.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Cholle Bhature",
+    "description": "Spicy chickpeas with fried bread",
+    "price": 150,
+    "category": "Regulars",
+    "image": "/food-20.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Juice",
+    "description": "Chilled Nimbu Pani",
+    "price": 40,
+    "category": "Drinks",
+    "image": "/food-15.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Tandoori Naan",
+    "description": "Soft Indian bread",
+    "price": 50,
+    "category": "Regulars",
+    "image": "/food-21.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Chai",
+    "description": "Indian spiced tea",
+    "price": 45,
+    "category": "Drinks",
+    "image": "/food-14.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Cold Coffee",
+    "description": "Iced coffee with cream",
+    "price": 60,
+    "category": "Drinks",
+    "image": "/food-13.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Brownie",
+    "description": "Rich chocolate delight",
+    "price": 200,
+    "category": "Cakes",
+    "image": "/food-10.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Red Velvet Cake",
+    "description": "Classic red velvet slice",
+    "price": 300,
+    "category": "Cakes",
+    "image": "/food-16.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Cup Cake",
+    "description": "Oreo Cup Cake",
+    "price": 90,
+    "category": "Cakes",
+    "image": "/food-17.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Gulab Jamun",
+    "description": "Sweet Indian dessert",
+    "price": 40,
+    "category": "Sweets",
+    "image": "/food-11.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Rasgulla",
+    "description": "Soft & spongy Bengali sweet",
+    "price": 50,
+    "category": "Sweets",
+    "image": "/food-18.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Kaju Katli",
+    "description": "Cashew-based sweet",
+    "price": 100,
+    "category": "Sweets",
+    "image": "/food-19.jpg"
+  },
+  {
+    "id": "16",
+    "name": "Paneer Tikka",
+    "description": "Grilled paneer cubes",
+    "price": 180,
+    "category": "Snacks",
+    "image": "/food-6.jpg"
+  },
+  {
+    "id": "17",
+    "name": "Veg Sandwich",
+    "description": "Fresh veggies in bread",
+    "price": 70,
+    "category": "Snacks",
+    "image": "/food-24.jpg"
+  },
+  {
+    "id": "18",
+    "name": "Masala Dosa",
+    "description": "Crispy dosa with potato filling",
+    "price": 120,
+    "category": "Regulars",
+    "image": "/food-22.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Idli Sambar",
+    "description": "Steamed rice cakes with lentil soup",
+    "price": 100,
+    "category": "Regulars",
+    "image": "/food-23.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Vada Pav",
+    "description": "Spicy potato fritter in bun",
+    "price": 60,
+    "category": "Snacks",
+    "image": "/food-25.jpg"
+  },
+  {
+    "id": "21",
+    "name": "Daal Makhani",
+    "description": "Indian spiced Daal",
+    "price": 150,
+    "category": "Regulars",
+    "image": "/food-26.jpg"
+  },
+  {
+    "id": "22",
+    "name": "Biryaani",
+    "description": "Indian Fried Chicken with Rice",
+    "price": 200,
+    "category": "Regulars",
+    "image": "/food-7.jpg"
+  },
+  {
+    "id": "23",
+    "name": "BBQ Chicken Pizza",
+    "description": "BBQ sauce & grilled chicken",
+    "price": 220,
+    "category": "Pizzas",
+    "image": "/food-27.jpg"
+  },
+  {
+    "id": "24",
+    "name": "Veggie Supreme Pizza",
+    "description": "Loaded with fresh veggies",
+    "price": 180,
+    "category": "Pizzas",
+    "image": "/food-28.jpg"
+  },
+  {
+    "id": "25",
+    "name": "Veggie Paneer Pizza",
+    "description": "Loaded with fresh veggies and paneer",
+    "price": 180,
+    "category": "Pizzas",
+    "image": "/food-29.jpg"
+  },
+  {
+    "id": "26",
+    "name": "Coca Cola",
+    "description": "Chilled carbonated drink",
+    "price": 60,
+    "category": "Drinks",
+    "image": "/food-30.jpg"
+  },
+  {
+    "id": "27",
+    "name": "Pepsi",
+    "description": "Chilled carbonated drink",
+    "price": 60,
+    "category": "Drinks",
+    "image": "/food-31.jpg"
+  },
+  {
+    "id": "28",
+    "name": "Indian Lassi",
+    "description": "Traditional yogurt-based drink",
+    "price": 80,
+    "category": "Drinks",
+    "image": "/food-32.jpg"
+  },
+  {
+    "id": "29",
+    "name": "Strawberry Cake",
+    "description": "Delicious strawberry-flavored cake",
+    "price": 180,
+    "category": "Cakes",
+    "image": "/food-33.jpg"
+  },
+  {
+    "id": "30",
+    "name": "Vanilla Cake",
+    "description": "Classic vanilla-flavored cake",
+    "price": 150,
+    "category": "Cakes",
+    "image": "/food-34.jpg"
+  },
+  {
+    "id": "31",
+    "name": "Chocolate Cake",
+    "description": "Decadent chocolate-flavored cake",
+    "price": 90,
+    "category": "Cakes",
+    "image": "/food-35.jpg"
+  },
+  {
+    "id": "32",
+    "name": "Chowmein",
+    "description": "Stir-fried noodles with veggies",
+    "price": 130,
+    "category": "Snacks",
+    "image": "/food-36.jpg"
+  },
+  {
+    "id": "33",
+    "name": "Jalebi",
+    "description": "Crispy spiral sweet",
+    "price": 110,
+    "category": "Sweets",
+    "image": "/food-37.jpg"
+  },
+  {
+    "id": "34",
+    "name": "Cham Cham",
+    "description": "Sweet Indian dessert",
+    "price": 70,
+    "category": "Sweets",
+    "image": "/food-38.jpg"
+  },
+  {
+    "id": "35",
+    "name": "Rasmalai",
+    "description": "Sweet Indian Bun Dipped in Sweet Milk",
+    "price": 160,
+    "category": "Sweets",
+    "image": "/food-39.jpg"
+  },
+  {
+    "id": "36",
+    "name": "Veggie Corn Mashroom Pizza",
+    "description": "Loaded with fresh veggies, corn and mashroom",
+    "price": 90,
+    "category": "Pizzas",
+    "image": "/food-40.jpg"
+  },
+  {
+    "id": "37",
+    "name": "Cheese Burst Pizza",
+    "description": "Loaded with fresh veggies and Cheese",
+    "price": 90,
+    "category": "Pizzas",
+    "image": "/food-41.jpg"
+  },
+  {
+    "id": "38",
+    "name": "Chicken Burger",
+    "description": "Burger With Fresh Chicken",
+    "price": 90,
+    "category": "Burgers",
+    "image": "/food-42.jpg"
+  },
+  {
+    "id": "39",
+    "name": "Paneer Burger",
+    "description": "Loaded with fresh veggies and Paneer",
+    "price": 90,
+    "category": "Burgers",
+    "image": "/food-43.jpg"
+  }
+
+]

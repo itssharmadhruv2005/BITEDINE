@@ -1,0 +1,126 @@
+[
+  {
+    "id": "1762248426453",
+    "name": "empty1",
+    "email": "empty123@gmail.com",
+    "password": "$2b$10$Ojq/aNjzjZyX/CS8jj09/.RLRCJDYHa3ydteWgk.BXbeVV8oiRp/m",
+    "role": "customer",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "profilePhoto": "blob:http://localhost:5173/53e558b6-c29e-4296-a8f9-7714dce01c79"
+  },
+  {
+    "id": "1762274119107",
+    "name": "dhruv sharma",
+    "email": "dhruvsharmabe2324@gmail.com",
+    "password": "$2b$10$oEDe20K67/ygKD5.3UEvKO1v7U.rttMzvH1ZCwkZZy7I1TGKKQ8aG",
+    "role": "customer",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "profilePhoto": "blob:http://localhost:5173/c0946139-4bb8-400d-9ed4-e6d1a7173b80"
+  },
+  {
+    "id": "1762275012185",
+    "name": "medium",
+    "email": "medium123@gmail.com",
+    "password": "$2b$10$/FNm0mhgCTdNWvDI2ueFvuC9.NDTICvXAWVyRPxQ2fUn1gB70LhyS",
+    "role": "customer",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "profilePhoto": ""
+  },
+  {
+    "id": "1762277085263",
+    "name": "aadha",
+    "email": "aadha@gmail.com",
+    "password": "$2b$10$OaOyttQo5jBsdEXPKtxzEODzX1BfpIAc8rcU7ocnrt.KsFdIXKZRy",
+    "role": "customer",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "profilePhoto": "blob:http://localhost:5173/5977e921-3ae9-4d74-bf7c-9bcf700c1bc3"
+  },
+  {
+    "id": "1762320431167",
+    "name": "sharma ji",
+    "email": "sharma123@gmail.com",
+    "password": "$2b$10$lomTFOXn3PvdGVDi94Kbqup37t1suS954BACH6a78Ta7JmJ8j6eiy",
+    "role": "customer",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "profilePhoto": "blob:http://localhost:5173/53b2b70c-1274-4647-a2ca-095a60c5ecc3"
+  },
+  {
+    "id": "1762752813810",
+    "name": "daksh",
+    "email": "daksh123@gmail.com",
+    "password": "$2b$10$iZnWWoWlPoTTRqR0YNHi3eiLbReyOLGa8T2wXDGdqJ86tbj.FYy.a",
+    "role": "customer",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "profilePhoto": "blob:http://localhost:5173/72824f6c-f853-45de-81b0-90a8e8026cbe"
+  },
+  {
+    "id": "1762870414495",
+    "name": "raja",
+    "email": "raja123@gmail.com",
+    "password": "$2b$10$eAYruPWmEmb8qHvnoJzYQOqFXXlMknF5uJ1vObpi/baUn3SKtPpYO",
+    "role": "customer",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "profilePhoto": ""
+  },
+  {
+    "id": "1762881607835",
+    "name": "me",
+    "email": "me123@gmail.com",
+    "password": "$2b$10$OXB5qrz6ENlPd92bM0chd.GZK5OT07RTuzkr56CCatvDSn37nyybK",
+    "role": "customer"
+  },
+  {
+    "id": "1762883288229",
+    "name": "abcd",
+    "email": "full123@gmail.com",
+    "password": "$2b$10$PkWC2f398SCb.boDc3TOtef45TUau6jaY7nPaFb8DE3JZRSbnbE9K",
+    "role": "customer",
+    "phone": "7896541230",
+    "address": "CHITKARA UNIVERSITY OPPOSITE NEELAM HOSPITAL",
+    "profilePhoto": "blob:http://localhost:5173/f64dfb03-fd9b-454e-8876-fe4a04d5e2dd"
+  },
+  {
+    "id": "1766066801184",
+    "name": "deol",
+    "email": "deol123@gmail.com",
+    "password": "$2b$10$u36Ul3oQbh5fHlgZUcs7v.SqSj6Jt/pwYGyOG4HB.ZBSL0Drpc//y",
+    "role": "customer",
+    "phone": "",
+    "address": "",
+    "profilePhoto": "blob:http://localhost:5173/a426b19a-3f0d-421d-8a85-714fb5bc7053"
+  },
+  {
+    "id": "1782992118149",
+    "name": "priyansh",
+    "email": "pri123@gmail.com",
+    "password": "$2b$10$krNbk7Sox/w9/.eBzPaVveJUg/xfWLHsIJNNTHwhuzhAglQ4J5X/y",
+    "role": "customer",
+    "phone": "1234567897",
+    "address": "chitkara",
+    "profilePhoto": ""
+  },
+  {
+    "id": "1789389836018",
+    "name": "dhruv",
+    "email": "qwerty123@gmail.com",
+    "password": "$2b$10$C6JzcZZSeR5IPq/0F95fAuRAik2A6EB9aLCC670evCPZXwKeeC3BW",
+    "role": "customer"
+  },
+  {
+    "id": "1789391485314",
+    "name": "DHRUV SHARMA",
+    "email": "dhruvsharma27chitkara@gmail.com",
+    "password": "$2b$10$A2WdwXjNarIgZIwmv4D73e3gTx6K26xD8Ubv4ZDbNPrAfeN1TJOqq",
+    "role": "customer",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "profilePhoto": ""
+  }
+]

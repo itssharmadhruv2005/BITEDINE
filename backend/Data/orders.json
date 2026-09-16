@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "1758106827497",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "3",
+        "name": "Pasta Alfredo",
+        "description": "Creamy white sauce pasta",
+        "price": 9,
+        "qty": 5
+      }
+    ],
+    "total": 45,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-09-17T11:00:27.497Z"
+  },
+  {
+    "id": "1758106927899",
+    "userId": "guest",
+    "name": "daksh",
+    "phone": "7894561239",
+    "items": [
+      {
+        "id": "14",
+        "name": "Masala Chai",
+        "description": "Indian spiced tea",
+        "price": 1.99,
+        "qty": 5
+      }
+    ],
+    "total": 9.95,
+    "address": "chitkara",
+    "status": "placed",
+    "createdAt": "2025-09-17T11:02:07.899Z"
+  },
+  {
+    "id": "1758114489475",
+    "userId": "guest",
+    "name": "diwakar",
+    "phone": "7894561238",
+    "items": [
+      {
+        "id": "13",
+        "name": "Kaju Katli",
+        "description": "Cashew-based sweet",
+        "price": 100,
+        "category": "Sweets",
+        "image": "/food-19.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 100,
+    "address": "bathinda",
+    "status": "placed",
+    "createdAt": "2025-09-17T13:08:09.476Z"
+  },
+  {
+    "id": "1758168955339",
+    "userId": "guest",
+    "name": "chitkara",
+    "phone": "7418529636",
+    "items": [
+      {
+        "id": "6",
+        "name": "Chai",
+        "description": "Indian spiced tea",
+        "price": 45,
+        "category": "Drinks",
+        "image": "/public/food-14.jpg",
+        "qty": 1
+      },
+      {
+        "id": "3",
+        "name": "Pasta Alfredo",
+        "description": "Creamy white sauce pasta",
+        "price": 140,
+        "category": "Regulars",
+        "image": "/food-3.jpg",
+        "qty": 2
+      },
+      {
+        "id": "12",
+        "name": "Rasgulla",
+        "description": "Soft & spongy Bengali sweet",
+        "price": 50,
+        "category": "Sweets",
+        "image": "/food-18.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 375,
+    "address": "delhi",
+    "status": "placed",
+    "createdAt": "2025-09-18T04:15:55.339Z"
+  },
+  {
+    "id": "1758538941498",
+    "userId": "guest",
+    "name": "polar bear",
+    "phone": "7894561232",
+    "items": [
+      {
+        "id": "3",
+        "name": "Pasta Alfredo",
+        "description": "Creamy white sauce pasta",
+        "price": 140,
+        "category": "Regulars",
+        "image": "/food-3.jpg",
+        "qty": 5
+      }
+    ],
+    "total": 700,
+    "address": "chutkara",
+    "status": "placed",
+    "createdAt": "2025-09-22T11:02:21.498Z"
+  },
+  {
+    "id": "1758627643651",
+    "userId": "guest",
+    "name": "pankaj",
+    "phone": "123456789",
+    "items": [
+      {
+        "id": "4",
+        "name": "French Fries",
+        "description": "Crispy golden fries",
+        "price": 90,
+        "category": "Regulars",
+        "image": "/food-4.jpg",
+        "qty": 2
+      }
+    ],
+    "total": 180,
+    "address": "delhi",
+    "status": "placed",
+    "createdAt": "2025-09-23T11:40:43.651Z"
+  },
+  {
+    "id": "1758628669918",
+    "userId": "guest",
+    "name": "aaradhya",
+    "phone": "7894561235",
+    "items": [
+      {
+        "id": "4",
+        "name": "French Fries",
+        "description": "Crispy golden fries",
+        "price": 90,
+        "category": "Regulars",
+        "image": "/food-4.jpg",
+        "qty": 5
+      }
+    ],
+    "total": 450,
+    "address": "chutkara",
+    "status": "placed",
+    "createdAt": "2025-09-23T11:57:49.918Z"
+  },
+  {
+    "id": "1758629414040",
+    "userId": "guest",
+    "name": "burj",
+    "phone": "7418529636",
+    "items": [
+      {
+        "id": "3",
+        "name": "Pasta Alfredo",
+        "description": "Creamy white sauce pasta",
+        "price": 140,
+        "category": "Regulars",
+        "image": "/food-3.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 140,
+    "address": "chitkara",
+    "status": "placed",
+    "createdAt": "2025-09-23T12:10:14.040Z"
+  },
+  {
+    "id": "1758689224065",
+    "userId": "guest",
+    "name": "qwerty",
+    "phone": "741852963",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      },
+      {
+        "id": "24",
+        "name": "Veggie Supreme Pizza",
+        "description": "Loaded with fresh veggies",
+        "price": 180,
+        "category": "Pizzas",
+        "image": "/food-28.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 300,
+    "address": "chitkara",
+    "status": "placed",
+    "createdAt": "2025-09-24T04:47:04.065Z"
+  },
+  {
+    "id": "1758711750095",
+    "userId": "guest",
+    "name": "Aditi",
+    "phone": "9999999999",
+    "items": [
+      {
+        "id": "5",
+        "name": "Cholle Bhature",
+        "description": "Spicy chickpeas with fried bread",
+        "price": 150,
+        "category": "Regulars",
+        "image": "/food-20.jpg",
+        "qty": 2
+      },
+      {
+        "id": "4",
+        "name": "French Fries",
+        "description": "Crispy golden fries",
+        "price": 90,
+        "category": "Snacks",
+        "image": "/food-5.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 390,
+    "address": "jansla",
+    "status": "placed",
+    "createdAt": "2025-09-24T11:02:30.095Z"
+  },
+  {
+    "id": "1758712798474",
+    "userId": "guest",
+    "name": "Divyam",
+    "phone": "8888888888",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 2
+      }
+    ],
+    "total": 100,
+    "address": "rajpura",
+    "status": "placed",
+    "createdAt": "2025-09-24T11:19:58.474Z"
+  },
+  {
+    "id": "1761060480699",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "19",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes with lentil soup",
+        "price": 100,
+        "category": "Regulars",
+        "image": "/food-23.jpg",
+        "qty": 1
+      },
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      },
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 2
+      },
+      {
+        "id": "23",
+        "name": "BBQ Chicken Pizza",
+        "description": "BBQ sauce & grilled chicken",
+        "price": 220,
+        "category": "Pizzas",
+        "image": "/food-27.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 610,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-10-21T15:28:00.699Z"
+  },
+  {
+    "id": "1761060648233",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      },
+      {
+        "id": "19",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes with lentil soup",
+        "price": 100,
+        "category": "Regulars",
+        "image": "/food-23.jpg",
+        "qty": 1
+      },
+      {
+        "id": "21",
+        "name": "Daal Makhani",
+        "description": "Indian spiced Daal",
+        "price": 150,
+        "category": "Regulars",
+        "image": "/food-26.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 370,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-10-21T15:30:48.233Z"
+  },
+  {
+    "id": "1761061282275",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      },
+      {
+        "id": "19",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes with lentil soup",
+        "price": 100,
+        "category": "Regulars",
+        "image": "/food-23.jpg",
+        "qty": 1
+      },
+      {
+        "id": "24",
+        "name": "Veggie Supreme Pizza",
+        "description": "Loaded with fresh veggies",
+        "price": 180,
+        "category": "Pizzas",
+        "image": "/food-28.jpg",
+        "qty": 1
+      },
+      {
+        "id": "26",
+        "name": "Coca Cola",
+        "description": "Chilled carbonated drink",
+        "price": 60,
+        "category": "Drinks",
+        "image": "/food-30.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 390,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-10-21T15:41:22.275Z"
+  },
+  {
+    "id": "1761061331014",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "5",
+        "name": "Cholle Bhature",
+        "description": "Spicy chickpeas with fried bread",
+        "price": 150,
+        "category": "Regulars",
+        "image": "/food-20.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 150,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-10-21T15:42:11.014Z"
+  },
+  {
+    "id": "1761061357248",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "19",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes with lentil soup",
+        "price": 100,
+        "category": "Regulars",
+        "image": "/food-23.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 100,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-10-21T15:42:37.248Z"
+  },
+  {
+    "id": "1761061628119",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-10-21T15:47:08.119Z"
+  },
+  {
+    "id": "1761061767751",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "39",
+        "name": "Paneer Burger",
+        "description": "Loaded with fresh veggies and Paneer",
+        "price": 90,
+        "category": "Burgers",
+        "image": "/food-43.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 90,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-10-21T15:49:27.751Z"
+  },
+  {
+    "id": "1761143074080",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "24",
+        "name": "Veggie Supreme Pizza",
+        "description": "Loaded with fresh veggies",
+        "price": 180,
+        "category": "Pizzas",
+        "image": "/food-28.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 180,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-10-22T14:24:34.080Z"
+  },
+  {
+    "id": "1761144190178",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "7",
+        "name": "Cold Coffee",
+        "description": "Iced coffee with cream",
+        "price": 60,
+        "category": "Drinks",
+        "image": "/food-13.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 60,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-10-22T14:43:10.178Z"
+  },
+  {
+    "id": "1761144257992",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "3",
+        "name": "Pasta Alfredo",
+        "description": "Creamy white sauce pasta",
+        "price": 140,
+        "category": "Snacks",
+        "image": "/food-3.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 140,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-10-22T14:44:17.992Z"
+  },
+  {
+    "id": "1761144997824",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "23",
+        "name": "BBQ Chicken Pizza",
+        "description": "BBQ sauce & grilled chicken",
+        "price": 220,
+        "category": "Pizzas",
+        "image": "/food-27.jpg",
+        "qty": 2
+      }
+    ],
+    "total": 440,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-10-22T14:56:37.824Z"
+  },
+  {
+    "id": "1761145099411",
+    "userId": "guest",
+    "name": "dfghjkl",
+    "phone": "1234567898765",
+    "items": [
+      {
+        "id": "14",
+        "name": "Juice",
+        "description": "Chilled Nimbu Pani",
+        "price": 40,
+        "category": "Drinks",
+        "image": "/food-15.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 40,
+    "address": "dfghjkl,mnbvbnm,mnbg",
+    "status": "placed",
+    "createdAt": "2025-10-22T14:58:19.412Z"
+  },
+  {
+    "id": "1761145976654",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "24",
+        "name": "Veggie Supreme Pizza",
+        "description": "Loaded with fresh veggies",
+        "price": 180,
+        "category": "Pizzas",
+        "image": "/food-28.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 180,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-10-22T15:12:56.654Z"
+  },
+  {
+    "id": "1761146458627",
+    "userId": "guest",
+    "name": "hello",
+    "phone": "7418529636",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "una",
+    "status": "placed",
+    "createdAt": "2025-10-22T15:20:58.627Z"
+  },
+  {
+    "id": "1761146550976",
+    "userId": "guest",
+    "name": "hello",
+    "phone": "2581475369",
+    "items": [
+      {
+        "id": "9",
+        "name": "Red Velvet Cake",
+        "description": "Classic red velvet slice",
+        "price": 300,
+        "category": "Cakes",
+        "image": "/food-16.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 300,
+    "address": "delhi",
+    "status": "placed",
+    "createdAt": "2025-10-22T15:22:30.976Z"
+  },
+  {
+    "id": "1761147786143",
+    "userEmail": "guest",
+    "name": "coco",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "39",
+        "name": "Paneer Burger",
+        "description": "Loaded with fresh veggies and Paneer",
+        "price": 90,
+        "category": "Burgers",
+        "image": "/food-43.jpg",
+        "qty": 1
+      },
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 210,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "Placed",
+    "createdAt": "2025-10-22T15:43:06.143Z"
+  },
+  {
+    "id": "1762149947817",
+    "userId": "guest",
+    "name": "anil",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T06:05:47.817Z"
+  },
+  {
+    "id": "1762150514425",
+    "userId": "guest",
+    "name": "kiran",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "7",
+        "name": "Cold Coffee",
+        "description": "Iced coffee with cream",
+        "price": 60,
+        "category": "Drinks",
+        "image": "/food-13.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 60,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T06:15:14.425Z"
+  },
+  {
+    "name": "jesa",
+    "phone": "9463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "22",
+        "name": "Biryaani",
+        "description": "Indian Fried Chicken with Rice",
+        "price": 200,
+        "category": "Regulars",
+        "image": "/food-7.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 200,
+    "date": "3/11/2025, 12:08:09 pm"
+  },
+  {
+    "name": "vesa",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "33",
+        "name": "Jalebi",
+        "description": "Crispy spiral sweet",
+        "price": 110,
+        "category": "Sweets",
+        "image": "/food-37.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 110,
+    "date": "3/11/2025, 12:39:53 pm"
+  },
+  {
+    "items": [
+      {
+        "id": "21",
+        "name": "Daal Makhani",
+        "description": "Indian spiced Daal",
+        "price": 150,
+        "category": "Regulars",
+        "image": "/food-26.jpg",
+        "qty": 1
+      },
+      {
+        "id": "19",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes with lentil soup",
+        "price": 100,
+        "category": "Regulars",
+        "image": "/food-23.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 250,
+    "paymentMethod": "card",
+    "date": "3/11/2025, 12:51:34 pm"
+  },
+  {
+    "id": "1762182242907",
+    "userId": "guest",
+    "name": "vesa",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      },
+      {
+        "id": "24",
+        "name": "Veggie Supreme Pizza",
+        "description": "Loaded with fresh veggies",
+        "price": 180,
+        "category": "Pizzas",
+        "image": "/food-28.jpg",
+        "qty": 1
+      },
+      {
+        "id": "39",
+        "name": "Paneer Burger",
+        "description": "Loaded with fresh veggies and Paneer",
+        "price": 90,
+        "category": "Burgers",
+        "image": "/food-43.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 390,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T15:04:02.907Z"
+  },
+  {
+    "id": "1762185516152",
+    "userId": "guest",
+    "name": "daksh",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T15:58:36.152Z"
+  },
+  {
+    "id": "1762186173334",
+    "userId": "guest",
+    "name": "daksh",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T16:09:33.334Z"
+  },
+  {
+    "id": "1762186201421",
+    "userId": "guest",
+    "name": "daksh",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 50,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T16:10:01.421Z"
+  },
+  {
+    "id": "1762186229209",
+    "userId": "guest",
+    "name": "daksh",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "33",
+        "name": "Jalebi",
+        "description": "Crispy spiral sweet",
+        "price": 110,
+        "category": "Sweets",
+        "image": "/food-37.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 110,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T16:10:29.209Z"
+  },
+  {
+    "id": "1762186530012",
+    "userId": "guest",
+    "name": "daksh",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "6",
+        "name": "Chai",
+        "description": "Indian spiced tea",
+        "price": 45,
+        "category": "Drinks",
+        "image": "/food-14.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 45,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T16:15:30.012Z"
+  },
+  {
+    "id": "1762186868103",
+    "userId": "guest",
+    "name": "daksh",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "11",
+        "name": "Gulab Jamun",
+        "description": "Sweet Indian dessert",
+        "price": 40,
+        "category": "Sweets",
+        "image": "/food-11.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 40,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T16:21:08.103Z"
+  },
+  {
+    "id": "1762187055803",
+    "userId": "guest",
+    "name": "daksh",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "28",
+        "name": "Indian Lassi",
+        "description": "Traditional yogurt-based drink",
+        "price": 80,
+        "category": "Drinks",
+        "image": "/food-32.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 80,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T16:24:15.803Z"
+  },
+  {
+    "id": "1762187273438",
+    "userId": "guest",
+    "name": "daksh",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "24",
+        "name": "Veggie Supreme Pizza",
+        "description": "Loaded with fresh veggies",
+        "price": 180,
+        "category": "Pizzas",
+        "image": "/food-28.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 180,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T16:27:53.438Z"
+  },
+  {
+    "id": "1762191063577",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "39",
+        "name": "Paneer Burger",
+        "description": "Loaded with fresh veggies and Paneer",
+        "price": 90,
+        "category": "Burgers",
+        "image": "/food-43.jpg",
+        "qty": 1
+      },
+      {
+        "id": "7",
+        "name": "Cold Coffee",
+        "description": "Iced coffee with cream",
+        "price": 60,
+        "category": "Drinks",
+        "image": "/food-13.jpg",
+        "qty": 6
+      }
+    ],
+    "total": 450,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T17:31:03.577Z"
+  },
+  {
+    "id": "1762191525063",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      },
+      {
+        "id": "19",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes with lentil soup",
+        "price": 100,
+        "category": "Regulars",
+        "image": "/food-23.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 150,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T17:38:45.063Z"
+  },
+  {
+    "id": "1762191550352",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 50,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T17:39:10.352Z"
+  },
+  {
+    "id": "1762191633130",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T17:40:33.130Z"
+  },
+  {
+    "id": "1762191782061",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 50,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T17:43:02.061Z"
+  },
+  {
+    "id": "1762191831361",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "1",
+        "name": "Margherita Pizza",
+        "description": "Classic cheese & tomato",
+        "price": 100,
+        "category": "Pizzas",
+        "image": "/food-1.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 100,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T17:43:51.361Z"
+  },
+  {
+    "id": "1762191858807",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "10",
+        "name": "Cup Cake",
+        "description": "Oreo Cup Cake",
+        "price": 90,
+        "category": "Cakes",
+        "image": "/food-17.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 90,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T17:44:18.807Z"
+  },
+  {
+    "id": "1762192856769",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T18:00:56.769Z"
+  },
+  {
+    "id": "1762193102287",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T18:05:02.287Z"
+  },
+  {
+    "id": "1762193177684",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 50,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T18:06:17.685Z"
+  },
+  {
+    "id": "1762193339645",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T18:08:59.645Z"
+  },
+  {
+    "id": "1762193475447",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T18:11:15.447Z"
+  },
+  {
+    "id": "1762193677408",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-03T18:14:37.408Z"
+  },
+  {
+    "id": "1762247753731",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-04T09:15:53.731Z"
+  },
+  {
+    "id": "1762266277200",
+    "userId": "guest",
+    "name": "full",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "DHRUV SHARMA S/O - ANIL KUMAR",
+    "status": "placed",
+    "createdAt": "2025-11-04T14:24:37.200Z"
+  },
+  {
+    "id": "1762274051954",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-04T16:34:11.954Z"
+  },
+  {
+    "id": "1762274170613",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 50,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-04T16:36:10.613Z"
+  },
+  {
+    "id": "1762274362479",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "19",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes with lentil soup",
+        "price": 100,
+        "category": "Regulars",
+        "image": "/food-23.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 100,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-04T16:39:22.479Z"
+  },
+  {
+    "id": "1762274628652",
+    "userId": "guest",
+    "name": "DHRUV SHARMA",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "placed",
+    "createdAt": "2025-11-04T16:43:48.652Z"
+  },
+  {
+    "id": "1762274887661",
+    "name": "DHRUV SHARMA",
+    "email": "guest@example.com",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "7",
+        "name": "Cold Coffee",
+        "description": "Iced coffee with cream",
+        "price": 60,
+        "category": "Drinks",
+        "image": "/food-13.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 60,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "Placed",
+    "createdAt": "2025-11-04T16:48:07.661Z"
+  },
+  {
+    "id": "1762275047977",
+    "name": "DHRUV SHARMA",
+    "email": "guest@example.com",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "22",
+        "name": "Biryaani",
+        "description": "Indian Fried Chicken with Rice",
+        "price": 200,
+        "category": "Regulars",
+        "image": "/food-7.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 200,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "Placed",
+    "createdAt": "2025-11-04T16:50:47.977Z"
+  },
+  {
+    "id": "1762276029880",
+    "name": "DHRUV SHARMA",
+    "email": "guest@example.com",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "Placed",
+    "createdAt": "2025-11-04T17:07:09.880Z"
+  },
+  {
+    "id": "1762276346028",
+    "name": "DHRUV SHARMA",
+    "email": "guest@example.com",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "Placed",
+    "createdAt": "2025-11-04T17:12:26.028Z"
+  },
+  {
+    "id": "1762276386182",
+    "name": "DHRUV SHARMA",
+    "email": "guest@example.com",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "22",
+        "name": "Biryaani",
+        "description": "Indian Fried Chicken with Rice",
+        "price": 200,
+        "category": "Regulars",
+        "image": "/food-7.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 200,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "Placed",
+    "createdAt": "2025-11-04T17:13:06.182Z"
+  },
+  {
+    "id": "1762276766842",
+    "name": "DHRUV SHARMA",
+    "email": "guest@example.com",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "Placed",
+    "createdAt": "2025-11-04T17:19:26.842Z"
+  },
+  {
+    "id": "1762276825688",
+    "name": "DHRUV SHARMA",
+    "email": "guest@example.com",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "19",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes with lentil soup",
+        "price": 100,
+        "category": "Regulars",
+        "image": "/food-23.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 100,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "Placed",
+    "createdAt": "2025-11-04T17:20:25.688Z"
+  },
+  {
+    "id": "1762277126972",
+    "name": "aadha",
+    "email": "guest@example.com",
+    "phone": "09463464244",
+    "items": [
+      {
+        "id": "39",
+        "name": "Paneer Burger",
+        "description": "Loaded with fresh veggies and Paneer",
+        "price": 90,
+        "category": "Burgers",
+        "image": "/food-43.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 90,
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "status": "Placed",
+    "createdAt": "2025-11-04T17:25:26.972Z"
+  },
+  {
+    "id": "1762277618302",
+    "name": "adha",
+    "email": "aadha@gmail.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "22",
+        "name": "Biryaani",
+        "description": "Indian Fried Chicken with Rice",
+        "price": 200,
+        "category": "Regulars",
+        "image": "/food-7.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 200,
+    "status": "Placed",
+    "createdAt": "2025-11-04T17:33:38.302Z"
+  },
+  {
+    "id": "1762277952966",
+    "name": "aadha",
+    "email": "aadha@gmail.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "22",
+        "name": "Biryaani",
+        "description": "Indian Fried Chicken with Rice",
+        "price": 200,
+        "category": "Regulars",
+        "image": "/food-7.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 200,
+    "status": "Placed",
+    "createdAt": "2025-11-04T17:39:12.966Z"
+  },
+  {
+    "id": "1762279921718",
+    "name": "DHRUV SHARMA",
+    "email": "aadha@gmail.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "19",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes with lentil soup",
+        "price": 100,
+        "category": "Regulars",
+        "image": "/food-23.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 100,
+    "status": "Placed",
+    "createdAt": "2025-11-04T18:12:01.719Z"
+  },
+  {
+    "id": "1762280666413",
+    "name": "DHRUV SHARMA",
+    "email": "aadha@gmail.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "19",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes with lentil soup",
+        "price": 100,
+        "category": "Regulars",
+        "image": "/food-23.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 100,
+    "status": "Placed",
+    "createdAt": "2025-11-04T18:24:26.413Z"
+  },
+  {
+    "id": "1762317318988",
+    "name": "DHRUV SHARMA",
+    "email": "guest@example.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "1",
+        "name": "Margherita Pizza",
+        "description": "Classic cheese & tomato",
+        "price": 100,
+        "category": "Pizzas",
+        "image": "/food-1.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 100,
+    "status": "Placed",
+    "createdAt": "2025-11-05T04:35:18.988Z"
+  },
+  {
+    "id": "1762320511656",
+    "name": "sharma ji",
+    "email": "sharma123@gmail.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 2
+      }
+    ],
+    "total": 100,
+    "status": "Placed",
+    "createdAt": "2025-11-05T05:28:31.656Z"
+  },
+  {
+    "id": "1762320788508",
+    "name": "sharma ji",
+    "email": "sharma123@gmail.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "21",
+        "name": "Daal Makhani",
+        "description": "Indian spiced Daal",
+        "price": 150,
+        "category": "Regulars",
+        "image": "/food-26.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 150,
+    "status": "Placed",
+    "createdAt": "2025-11-05T05:33:08.508Z"
+  },
+  {
+    "id": "1762337070710",
+    "name": "DHRUV SHARMA",
+    "email": "dhruvsharmabe2324@gmail.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 50,
+    "status": "Placed",
+    "createdAt": "2025-11-05T10:04:30.711Z"
+  },
+  {
+    "id": "1762752893633",
+    "name": "daksh",
+    "email": "daksh123@gmail.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "19",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes with lentil soup",
+        "price": 100,
+        "category": "Regulars",
+        "image": "/food-23.jpg",
+        "qty": 1
+      },
+      {
+        "id": "22",
+        "name": "Biryaani",
+        "description": "Indian Fried Chicken with Rice",
+        "price": 200,
+        "category": "Regulars",
+        "image": "/food-7.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 300,
+    "status": "Placed",
+    "createdAt": "2025-11-10T05:34:53.633Z"
+  },
+  {
+    "id": "1762752946462",
+    "name": "daksh",
+    "email": "daksh123@gmail.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "29",
+        "name": "Strawberry Cake",
+        "description": "Delicious strawberry-flavored cake",
+        "price": 180,
+        "category": "Cakes",
+        "image": "/food-33.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 180,
+    "status": "Placed",
+    "createdAt": "2025-11-10T05:35:46.462Z"
+  },
+  {
+    "id": "1762885934321",
+    "name": "full",
+    "email": "full123@gmail.com",
+    "phone": "9463464244",
+    "address": "chitkara",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120,
+    "status": "Placed",
+    "createdAt": "2025-11-11T18:32:14.321Z"
+  },
+  {
+    "id": "1762886137529",
+    "name": "full",
+    "email": "full123@gmail.com",
+    "phone": "9463464244",
+    "address": "chitkara",
+    "items": [
+      {
+        "id": "19",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes with lentil soup",
+        "price": 100,
+        "category": "Regulars",
+        "image": "/food-23.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 100,
+    "status": "Placed",
+    "createdAt": "2025-11-11T18:35:37.529Z"
+  },
+  {
+    "id": "1763007594806",
+    "name": "full",
+    "email": "full123@gmail.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "21",
+        "name": "Daal Makhani",
+        "description": "Indian spiced Daal",
+        "price": 150,
+        "category": "Regulars",
+        "image": "/food-26.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 150,
+    "status": "Placed",
+    "createdAt": "2025-11-13T04:19:54.806Z"
+  },
+  {
+    "id": "1763041167983",
+    "name": "DHRUV SHARMA",
+    "email": "full123@gmail.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 50,
+    "status": "Placed",
+    "createdAt": "2025-11-13T13:39:27.983Z"
+  },
+  {
+    "id": "1766308568782",
+    "name": "deol",
+    "email": "deol123@gmail.com",
+    "phone": "7418529638",
+    "address": "chitkara",
+    "items": [
+      {
+        "id": "22",
+        "name": "Biryaani",
+        "description": "Indian Fried Chicken with Rice",
+        "price": 200,
+        "category": "Regulars",
+        "image": "/food-7.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 200,
+    "status": "Placed",
+    "createdAt": "2025-12-21T09:16:08.782Z"
+  },
+  {
+    "id": "1771512346132",
+    "name": "DHRUV SHARMA",
+    "email": "deol123@gmail.com",
+    "phone": "09463464244",
+    "address": "VILLAGE-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN, DISTRICT-HAMIRPUR, HIMACHAL PRADESH",
+    "items": [
+      {
+        "id": "18",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato filling",
+        "price": 120,
+        "category": "Regulars",
+        "image": "/food-22.jpg",
+        "qty": 1
+      },
+      {
+        "id": "23",
+        "name": "BBQ Chicken Pizza",
+        "description": "BBQ sauce & grilled chicken",
+        "price": 220,
+        "category": "Pizzas",
+        "image": "/food-27.jpg",
+        "qty": 1
+      },
+      {
+        "id": "26",
+        "name": "Coca Cola",
+        "description": "Chilled carbonated drink",
+        "price": 60,
+        "category": "Drinks",
+        "image": "/food-30.jpg",
+        "qty": 1
+      },
+      {
+        "id": "13",
+        "name": "Kaju Katli",
+        "description": "Cashew-based sweet",
+        "price": 100,
+        "category": "Sweets",
+        "image": "/food-19.jpg",
+        "qty": 1
+      },
+      {
+        "id": "29",
+        "name": "Strawberry Cake",
+        "description": "Delicious strawberry-flavored cake",
+        "price": 180,
+        "category": "Cakes",
+        "image": "/food-33.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 680,
+    "status": "Placed",
+    "createdAt": "2026-02-19T14:45:46.132Z"
+  },
+  {
+    "id": "1782992247967",
+    "name": "priyansh",
+    "email": "pri123@gmail.com",
+    "phone": "1234567897",
+    "address": "chitkara",
+    "items": [
+      {
+        "id": "13",
+        "name": "Kaju Katli",
+        "description": "Cashew-based sweet",
+        "price": 100,
+        "category": "Sweets",
+        "image": "/food-19.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 100,
+    "status": "Placed",
+    "createdAt": "2026-07-02T11:37:27.967Z"
+  },
+  {
+    "id": "1789301615872",
+    "name": "DHRUV SHARMA",
+    "email": "guest@example.com",
+    "phone": "09463464244",
+    "address": "VILL-MANJRA, P.O.-PANSAI, TEHSIL-NADAUN",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 50,
+    "status": "Placed",
+    "createdAt": "2026-09-13T12:13:35.872Z"
+  },
+  {
+    "id": "1789391673267",
+    "name": "DHRUV SHARMA",
+    "email": "dhruvsharma27chitkara@gmail.com",
+    "phone": "09463464244",
+    "address": "CHITKARA UNIVERSITY\nOPPOSITE NEELAM hospital",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 50,
+    "status": "Placed",
+    "createdAt": "2026-09-14T13:14:33.267Z"
+  },
+  {
+    "id": "1789393519186",
+    "name": "DHRUV SHARMA",
+    "email": "dhruvsharma27chitkara@gmail.com",
+    "phone": "09463464244",
+    "address": "CHITKARA UNIVERSITY\nOPPOSITE NEELAM hospital",
+    "items": [
+      {
+        "id": "15",
+        "name": "Tandoori Naan",
+        "description": "Soft Indian bread",
+        "price": 50,
+        "category": "Regulars",
+        "image": "/food-21.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 50,
+    "status": "Placed",
+    "createdAt": "2026-09-14T13:45:19.186Z"
+  }
+]
